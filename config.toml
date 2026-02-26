@@ -1,0 +1,22 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "The Gradient Journal"
+theme = "ananke"
+
+[params]
+description = "A blog exploring ideas at the intersection of technology and thought"
+author = "Aloumvrios"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
