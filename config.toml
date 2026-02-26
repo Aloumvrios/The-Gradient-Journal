@@ -1,7 +1,6 @@
 baseURL = "https://thegradientjournal.com"
 languageCode = "en-us"
 title = "The Gradient Journal"
-theme = "ananke"
 
 [params]
 description = "A blog exploring ideas at the intersection of technology and thought"
