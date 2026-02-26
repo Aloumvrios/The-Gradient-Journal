@@ -1,7 +1,6 @@
 baseURL = "https://thegradientjournal.com"
 languageCode = "en-us"
 title = "The Gradient Journal"
-theme = "PaperMod"
 
 [module]
   [[module.imports]]
