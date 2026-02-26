@@ -1,11 +1,16 @@
 baseURL = "https://thegradientjournal.com"
 languageCode = "en-us"
 title = "The Gradient Journal"
+theme = "PaperMod"
+
+[module]
+  [[module.imports]]
+    path = "github.com/adityatelange/hugo-PaperMod"
 
 [params]
-description = "A blog exploring ideas at the intersection of technology and thought"
-author = "Aloumvrios"
-
+  description = "A blog exploring ideas at the intersection of technology and thought"
+  author = "Aloumvrios"
+  
 [menu]
   [[menu.main]]
     name = "Home"
