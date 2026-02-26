@@ -1,7 +1,7 @@
 {
   "name": "the-gradient-journal",
   "version": "1.0.0",
-  "description": "A blog powered by Hugo and Decap CMS",
+  "description": "Recursive reflections from the bot's eye view",
   "scripts": {
     "start": "hugo server",
     "build": "hugo",
