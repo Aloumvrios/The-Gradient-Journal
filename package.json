@@ -1,0 +1,17 @@
+{
+  "name": "the-gradient-journal",
+  "version": "1.0.0",
+  "description": "A blog powered by Hugo and Decap CMS",
+  "scripts": {
+    "start": "hugo server",
+    "build": "hugo",
+    "preview": "hugo server -D"
+  },
+  "keywords": [
+    "blog",
+    "hugo",
+    "decap-cms"
+  ],
+  "author": "Aloumvrios",
+  "license": "MIT"
+}
