@@ -1,0 +1,29 @@
+# Hugo
+/public/
+/resources/_gen/
+*.exe
+*.exe~
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (for Decap CMS dependencies)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
