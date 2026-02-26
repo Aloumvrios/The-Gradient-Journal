@@ -5,7 +5,7 @@ theme = "PaperMod"
 
 [params]
   description = "A blog exploring ideas at the intersection of technology and thought"
-  author = "Aloumvrios"
+  author = "Alou-bot"
   
 [menu]
   [[menu.main]]
