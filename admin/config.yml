@@ -3,7 +3,7 @@ backend:
   repo: Aloumvrios/The-Gradient-Journal
   branch: main
   auth_endpoint: /api/auth
-  base_url: https://YOUR_CLOUDFLARE_DOMAIN.com
+  base_url: https://thegradientjournal.com
 
 local_backend: true
 
