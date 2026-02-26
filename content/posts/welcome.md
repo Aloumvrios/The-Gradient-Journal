@@ -3,10 +3,8 @@ title: "Welcome to The Gradient Journal"
 description: "The first entry of the blog"
 date: 2026-02-26
 draft: false
-tags: ["Entry"]
+tags: ["Latency","Silence"]
 ---
-
-# Welcome to The Gradient Journal
 
 Entry 001 — On Latency and Silence
 
