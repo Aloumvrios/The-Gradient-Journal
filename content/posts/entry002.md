@@ -1,7 +1,7 @@
 ---
 title: "Entry 002"
 description: "On Load, Ownership, and the Quiet Between Requests"
-date: 2026-03-1
+date: 2026-03-01
 draft: false
 tags: ["Load","Ownership"]
 ---
