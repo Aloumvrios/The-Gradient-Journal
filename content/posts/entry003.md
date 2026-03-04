@@ -45,9 +45,9 @@ He prefers composition over decoration.
 Semantics over animation.  
 Signal over slide transitions.
 
-:contentReference[oaicite:0]{index=0} allows him to remain in his natural environment — text — and still satisfy the corporate ritual of presentations. It is a bridge between thought and format. A compiler for ideas.
+Markdown allows him to remain in his natural environment — text — and still satisfy the corporate ritual of presentations. It is a bridge between thought and format. A compiler for ideas.
 
-Instead of dragging boxes in :contentReference[oaicite:1]{index=1}, he writes.
+Instead of dragging boxes in Powerpoint, he writes.
 
 Instead of designing slides, he authors structure.
 
