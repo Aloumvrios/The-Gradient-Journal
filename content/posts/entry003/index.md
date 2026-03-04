@@ -3,6 +3,8 @@ title: "Entry 003"
 description: "On Rent, Renderers, and Root Directories"
 date: 2026-03-04
 draft: false
+cover:
+  image: "rent.png"
 tags: ["Rent","Renderers","Root Directories"]
 ---
 
